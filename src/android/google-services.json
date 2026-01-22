@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553692029278",
+    "project_id": "pocnotification-364ff",
+    "storage_bucket": "pocnotification-364ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553692029278:android:f7cb1cf071d96ef8966fcf",
+        "android_client_info": {
+          "package_name": "com.oceaneering.eapp.dev.oiiu.MobilePushNotificationsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsxyqETwE5lhoMpKakZhIb6AfLXNBKWdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
