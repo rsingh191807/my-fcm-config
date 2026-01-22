@@ -1,0 +1,9 @@
+
+{
+  "name": "fcm.config",
+  "version": "1.0.0",
+  "description": "Places google-services.json into the Android app module for MABS builds",
+  "keywords": ["ecosystem:cordova", "cordova-android", "firebase", "google-services"],
+  "license": "MIT",
+  "cordova": { "id": "fcm.config", "platforms": ["android"] }
+}
